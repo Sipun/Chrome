@@ -1,0 +1,14 @@
+{
+  "name": "ଓଡ଼ିଆ ଉଇକିପିଡ଼ିଆ ସନ୍ଧାନ",
+  "description" : "To use, type 'ow' plus a search term into the Omnibox.",
+  "version": "1.0",
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "16-full-color.png"
+  },
+  "omnibox": { "keyword" : "o" },
+  "manifest_version": 2
+}

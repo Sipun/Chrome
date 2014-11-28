@@ -1,0 +1,15 @@
+{
+  "name": "ଓଡ଼ିଆ ଉଇକିପିଡ଼ିଆ",
+  "version": "0.2",
+  "app": {
+    "urls": [ "http://or.wikipedia.org/wiki/ପ୍ରଧାନ_ପୃଷ୍ଠା" ],
+    "launch": {
+      "web_url": "http://or.wikipedia.org/wiki/ପ୍ରଧାନ_ପୃଷ୍ଠା"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": ["background", "notifications"],
+  "manifest_version": 2
+}
